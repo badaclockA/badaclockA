@@ -18,9 +18,10 @@
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### 📊 Nakyeonko3's GitHub Stats
-
+| GitHub Stats                                                                                                                                                                     |                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nakyeonko3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nakyeonko3's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakyeonko3&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 ### 📫 Contact Me
 
