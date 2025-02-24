@@ -15,5 +15,4 @@
 ### 📫 Contact Me
 
 [![Blog](https://img.shields.io/badge/blog-000000?style=flat-square&logo=Tistory&logoColor=#000000)](https://velog.io/@badaclock/)
-[![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=Google&logoColor=##4285F4)](mailto:badaclock@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1AbGYB3Vdls9E0)
