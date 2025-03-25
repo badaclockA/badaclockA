@@ -23,5 +23,4 @@
 
 ### 📫 Contact Me
 
-[![Blog](https://img.shields.io/badge/blog-000000?style=flat-square&logo=Tistory&logoColor=#000000)](https://velog.io/@badaclock/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1AbGYB3Vdls9E0)
