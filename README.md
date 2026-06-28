@@ -12,9 +12,3 @@
 | GitHub Stats                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nakyeonko3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nakyeonko3's github stats" /></a> |
-
-
-
-### 📫 Contact Me
-
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/b1AbGYB3Vdls9E0)
